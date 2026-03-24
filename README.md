@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coding" width="400" align="right">
 </p>
 
----
+
 
 ### 🚀 About Me
 - 💻 Full Stack Developer with **3+ years experience**
@@ -14,10 +14,10 @@
 - 🤖 Building **Agentic AI systems & intelligent workflows**
 - 🧠 Developing **LLM apps with RAG & Vector Databases**
 
----
+
 
 ### 💬 Ask Me About
-- **Spring Boot, Microservices, REST APIs**
+- **Spring Boot, Microservices, REST APIs, AWS, GCP**
 - **React.js & Frontend Development**
 - **Agentic AI Systems**
 - **RAG (Retrieval-Augmented Generation)**
@@ -45,17 +45,6 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
 </a>
 </p>
-
----
-
-### 🧠 AI & Backend Expertise
-- 🔹 Large Language Models (LLMs)
-- 🔹 Retrieval-Augmented Generation (RAG)
-- 🔹 LangChain & LangGraph
-- 🔹 Vector Databases (Qdrant)
-- 🔹 AI Workflow Automation & Agents
-- 🔹 Prompt Engineering
-- 🔹 FastAPI (AI services integration)
 
 ---
 

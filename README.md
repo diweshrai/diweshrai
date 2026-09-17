@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-* 💻 Full Stack Web Developer with **2+ years of experience**
+* 💻 Full Stack Web Developer
 * ⚡ Experienced in building **scalable full stack web applications**
 * 🧩 Strong experience with **JavaScript, TypeScript, Python & Java**
 * ⚙️ Backend development with **Node.js, Express.js, Spring Boot, Django & FastAPI**
